@@ -15,10 +15,10 @@
   ],
   "require": {
     "php": ">=7.0",
-    "illuminate/support": "5.2.*|5.3.*|5.4.*",
-    "illuminate/container": "5.2.*|5.3.*|5.4.*",
-    "illuminate/view": "5.2.*|5.3.*|5.4.*",
-    "illuminate/routing": "5.2.*|5.3.*|5.4.*"
+    "illuminate/support": "5.2.*|5.3.*|5.4.*|5.5.*",
+    "illuminate/container": "5.2.*|5.3.*|5.4.*|5.5.*",
+    "illuminate/view": "5.2.*|5.3.*|5.4.*|5.5.*",
+    "illuminate/routing": "5.2.*|5.3.*|5.4.*|5.5.*"
   },
   "require-dev": {
     "mockery/mockery": "0.9.*",
